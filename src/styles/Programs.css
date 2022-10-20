@@ -14,7 +14,7 @@
 }
 
 .flexbox-container-three-columns {
-    margin-top: 20px;
+    margin-top: 0;
     display: flex;
     justify-content:center;
     flex-wrap: wrap;
@@ -26,13 +26,16 @@
     flex-direction: column;
 }
 
+.flexbox-item-1 {
+    width: 370px;
+    margin: 0 auto;
+}
 
 .flexbox-item-2 {
     width: 350px;
     height: 200px;
     margin: 3rem;
     padding: 20px;
-  
 }
 
 
@@ -54,7 +57,3 @@
     display: inline-flex;
     vertical-align: middle;
 }
-
-/* .flexbox-container-one-column {
-    padding-bottom: 1rem;
-} */

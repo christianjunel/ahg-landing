@@ -18,7 +18,7 @@ const NavbarComp = props => {
                         src={altruvitaLogo}
                         width="250"
                         // height="94"
-                        className="d-inline-block align-top"
+                        className="navbar-main-logo d-inline-block align-top"
                         alt="Altruvita Logo"
                     />
                 </Navbar.Brand>

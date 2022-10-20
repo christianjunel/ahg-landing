@@ -29,7 +29,7 @@ body {
     color: black;
 }
 
-@media all and (max-width: 380px) {
+@media all and (max-width: 428px) {
     .navbar-main-logo {
         content: url('../imgs/altruvita-logo-mobile.svg');
         width: 40px;

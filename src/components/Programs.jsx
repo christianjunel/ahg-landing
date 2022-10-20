@@ -3,7 +3,7 @@ import '../styles/Programs.css'
 const Programs = props => {
     return (
         <div className='program-section'>
-            <div className="flexbox-container-one-column">
+            <div className="flexbox-container-one-column flexbox-item-1">
                 
                 <h2 id="h-works">WHAT WE DO</h2>
                 <p>We keep the people we help happy, loved, and taken care of.</p>
